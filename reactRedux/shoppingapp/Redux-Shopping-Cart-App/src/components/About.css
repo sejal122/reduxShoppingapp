@@ -1,0 +1,20 @@
+ h1 {
+     color: #252958 !important;
+ }
+
+ .aboutCard p {
+     text-align: left;
+ }
+
+ .aboutCard {
+     margin-top: 10%;
+     align-self: center;
+ }
+
+ .aboutBtn {
+     border: none;
+     padding: 15px;
+     background-color: #1e8bc3;
+     color: #fff;
+     margin: 15px;
+ }
